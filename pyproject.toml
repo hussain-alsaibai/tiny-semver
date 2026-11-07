@@ -25,4 +25,4 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [tool.setuptools]
-py-modules = ["tiny_semver"]
+py-modules = ["tiny_semver", "tiny_semver_v2"]
