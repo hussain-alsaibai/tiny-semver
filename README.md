@@ -119,7 +119,8 @@ Because `packaging.version` has a 40ms cold-start overhead and a dependency you 
 ## Install
 
 ```bash
-pip install tiny-semver
+# From GitHub (recommended -- not yet on PyPI)
+pip install git+https://github.com/hussain-alsaibai/tiny-semver.git
 ```
 
 Or copy the single file:
