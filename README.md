@@ -3,7 +3,8 @@
 > **Zero-dependency Semantic Versioning.** Parse, compare, bump, validate, and constrain-check SemVer 2.0.0 strings. Pure Python stdlib. One file. MIT.
 
 ```
-pip install tiny-semver
+# From GitHub (recommended -- not yet on PyPI)
+pip install git+https://github.com/hussain-alsaibai/tiny-semver.git
 ```
 or just copy `tiny_semver.py` into your project.
 
